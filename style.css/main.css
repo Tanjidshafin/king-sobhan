@@ -1,0 +1,50 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+.header-container{
+  
+    
+    
+}
+.header-bg{
+    background-image: url(/img-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 300px 1px;
+   display: flex;
+   justify-content: center;
+}
+.header-page-info{
+margin-left: 300px;
+margin-right: 300px;
+text-align: center;
+}
+.header-title{
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+}
+.header-descrip{
+    font-size: 17px;
+    color: bisque;
+    margin-top: 16px;
+    margin-bottom: 35px;
+}
+.header-btn {
+   padding: 20px 25px;
+   background-color: crimson;
+   border: 2px solid crimson;
+   color: white;
+   font-size: 20px;
+   font-weight: 700;
+   border-radius: 5px;
+  }
+  .header-btn:hover {
+    background-color: transparent;
+    border: 2px dashed crimson;
+    transition: all 300ms ease-in-out;
+  }
+  .scnd-section{
+    
+  }
